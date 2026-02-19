@@ -1,0 +1,1 @@
+This project presents a deterministic A* path planning framework for UAV navigation in structured 3D environments. The system focuses on static obstacle avoidance, optimal trajectory generation, and benchmarking analysis to serve as a baseline for comparison with metaheuristic and learning-based planners.
