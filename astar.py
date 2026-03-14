@@ -19,7 +19,7 @@ class AStarBasicPlanner:
                  goal: np.ndarray,
                  bounds: np.ndarray,
                  obstacles: List[Union[np.ndarray, Tuple, dict]],
-                 max_iterations: int = 15000):
+                 max_iterations: int = 16000):
         
         self.start = start
         self.goal = goal
